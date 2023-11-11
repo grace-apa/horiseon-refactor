@@ -70,11 +70,12 @@ p {
     margin-left: 25px;
 }
 
-article {
+/* changes made to the two CSS selectors below to reflect the changes made in the index.html file */
+article { 
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
+} 
 
 aside {
     margin-right: 20px;
