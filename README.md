@@ -11,6 +11,7 @@ To deploy my project to GitHub pages, I followed the below instructions:
 •	Ensured my project deploy and displays correctly 
  
 To refactor the starter code, I made the following changes:
+
 •	Renamed the title element, ensuring it is concise and descriptive
 •	Ensured that all links (i.e., the menu link) is functioning correctly by adding the missing HTML id attribute.
 •	Ensured the HTML elements follow a logical structure independent of styling and positioning
@@ -23,6 +24,7 @@ To refactor the starter code, I made the following changes:
 •	Regularly add, commit, and push your work to see the most up-to-date version of my webpage.
      
 Quality standards met:
+
 •	Application loads with no errors.
 •	Application GitHub URL submitted.
 •	GitHub repository contains application code.
@@ -34,6 +36,7 @@ Quality standards met:
 •	Ensured my website meet accessibility standards.
 
 As a developer, I’ve learnt the following best practices:
+
 1.	It’s important that once any changes are made to HTML elements, the same is done for CSS selectors and their properties (where relevant)
 2.	It is important to regularly commit my code to GitHub to prevent losing my code history and because of this I now know how to use the VS Code terminal and how to complete a Git flow with confidence.
 
@@ -50,7 +53,7 @@ Note: This webpage layout was designed for desktop viewing only
 N/A
 
 ## Usage
- 
+
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
  
 md
