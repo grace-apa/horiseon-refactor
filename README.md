@@ -17,14 +17,15 @@ To refactor the starter code, I made the following changes:
 - Included comments before each element or section of the page OR commented on HTML and CSS for clarity
 - Regularly add, commit, and push your work to see the most up-to-date version of my webpage.
 
+
 To deploy my project to GitHub pages, I followed the below instructions:
 - Created a new repository on my GitHub account and cloned it to my computer.
 - Regularly used the `git add`, `git commit`, and `git push` commands to save and push my code to my GitHub repository.
 - Navigated to my webpage to confirm it has gone live
 - Ensured my project deploy and displays correctly 
 
-As a developer, I’ve learnt the following best practices:
 
+As a developer, I’ve learnt the following best practices:
 1.	It’s important that once any changes are made to HTML elements, the same is done for CSS selectors and their properties (where relevant)
 2.	It is important to regularly commit my code to GitHub to prevent losing my code history and because of this I now know how to use the VS Code terminal and how to complete a Git flow with confidence.
 
