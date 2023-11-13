@@ -5,7 +5,6 @@
 The goal for this project was to refactor a marketing agency's webpage so that it follows accessibility standards and is optimised for search engines. I was given a starter code and a webpage which included a navigation bar, a header image, and cards with text and images at the bottom of the page. 
  
 To refactor the starter code, I made the following changes:
-
 - Renamed the title element, ensuring it is concise and descriptive
 - Ensured that all links (i.e., the menu link) is functioning correctly by adding the missing HTML id attribute.
 - Ensured the HTML elements follow a logical structure independent of styling and positioning
