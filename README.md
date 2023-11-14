@@ -13,7 +13,7 @@ To refactor the starter code, I made the following changes:
 - Added accessible ‘Alt’ attributes to image and icon elements for better accessibility and SEO
 - Reworked the CSS by consolidating repetitive CSS selectors to make it more efficient
 - Reorganised CSS selectors to follow the semantic structure of the HTML elements.
-- Included comments before each element or section of the page OR commented on HTML and CSS for clarity
+- Commented on HTML and CSS for direction and clarity
 - Regularly add, commit, and push your work to see the most up-to-date version of my webpage.
 
 
