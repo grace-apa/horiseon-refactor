@@ -1,3 +1,4 @@
+/* the * represents 'all elements' */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -55,7 +56,7 @@ a {
     background-position: center;
 }
 
-/* changes were made to the two CSS selectors below to reflect the name change made in the index.html file */
+/* the two CSS selectors below reflect the name change made in the index.html file */
 article { 
     width: 75%;
     display: inline-block;
@@ -87,7 +88,7 @@ p {
     margin-left: 25px;
 }
 
-/* The below CSS selectors have been consolidated and organized to follow the semantic structure in index.html file */
+/* The below CSS selectors have been consolidated and organized to follow the semantic structure found in index.html file */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
